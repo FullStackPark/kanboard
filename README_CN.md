@@ -17,7 +17,7 @@
 ---
 
 * [功能](README_CN.md#功能)
-* [插件]()
+* [插件](README_CN.md#插件)
 * [下载最新版本]()
 * [文档]
     * [需求]()
@@ -39,10 +39,12 @@
 
 ### 在不同的Kanban 列(译者注,别的项目有的称为管道- Pipeline)可以任意的拖拽
 > ![Drag Drop](https://kanboard.org/assets/img/drag-and-drop.png)
+
 > 你可以随时增加或删除Kanban 列来适应你自己的项目
 
 ### 限制同时开工任务,让任务执行更有效
 > ![](https://kanboard.org/assets/img/task-limit.png)
+
 > 避免同时进行多个任务(multitask),更加专注于当前的任务.如果超过设定的限制的话,这一列(Column)会高亮显示.
 
 ### 搜索和过滤任务
@@ -57,4 +59,20 @@
 
 ### 自动化操作
 > ![](https://kanboard.org/assets/img/automatic-actions.png)
-> 不再重复发明轮子,可以通过自动化的动作让流程更加智能,不用再
+> 不再重复发明轮子,可以通过自动化的动作让流程更加智能,不用再同样的事情上一次又一次的执行.可以自动的修改任务指派人,颜色,分类,几乎所有的所有.
+
+### 30+的语言支持
+> 感谢来自于不同国家的广泛的爱好者的付出. Kanboard 已经被翻译成了 Bahasa Indonesia, Bosnian, Brazilian Portuguese, Chinese, Chinese (Taiwan), Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Malay, Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Spanish, Swedish, Thai, Turkish, Vietnamese.
+
+### 多种验证方式的支持
+> Kanboard 可以链接到你的 LDAP/Active Directory或者使用 OAuth2提供商(Google,GitHub,GitLab, 等等)
+
+### 免费和开源的软件
+> Kanboard 是以** MIT** 协议发布的,软件主要有Frédéric Guillot来维护和开发,但是有操作190个其他的贡献者.
+
+---
+## 插件
+
+你可以通过安装下面的扩展来增加Kanboard的特性
+
+### 
