@@ -227,5 +227,63 @@
 > By Xavier Vidal
 
 ### 使用 LDAP 用户提供商实现反向代理身份验证
-> 
+> 使用反向代理方法验证用户身份，通过LDAP目录填充用户信息。
+> By Frédéric Guillot
+
+### RocketChat
+> RocketChat 中接受个人或项目通知
+> By Frédéric Guillot
+
+### 自行注册
+> 该插件可以允许用户在 Kanboard 系统上自己注册
+> By Frédéric Guillot
+
+### Sendgrid
+> 使用 Sendgrid API 来发送 Email 并通过 Email 创建任务
+> By Frédéric Guillot
+
+### Slack
+> 通过 Slack 来接受个人或项目通知
+> By Frédéric Guillot
+
+### SMS 2步认证
+> 使用 SMS 文本消息实现2步认证
+> By Frédéric Guillot
+
+### 子任务广播
+> 此插件显示用户日历中子任务的估计值。必须填写用户时间表才能查看日历中的时间段。
+> By Frédéric Guillot
+
+### 子任务截止日期
+> 该插件为子任务增加一个截止日期
+> By Manuel Raposo
+
+### 任务面板日期
+> 为任务添加新的日期字段以定义面板和仪表板上的可视性。
+> By Frédéric Guillot
+
+### 时间表
+> 为用户提供工作时间表管理。
+> By Frédéric Guillot
+
+### 时间跟踪编辑器
+> 手动添加和编辑时间跟踪条目，添加评论和选择收费/不收费时间跟踪条目。导出时间跟踪条目为html。
+> By Stinnux
+
+### 时间间隔按钮
+> 简单的插件添加按钮，以增量更改任务花费的时间。
+> By Igor Mroz
+
+### Wunderlist
+> 这个插件允许你通过上传一个wunderlist导出文件直接从kanboard的用户界面导入wunderlist任务和列表。
+> By Maxime (Epoc)
+
+### 评论工具提示
+> 显示任务的评论作为工具提示像在较旧的kanboard版本中一样。
+> By Enrico Frigo
+
+### Telegram
+> 在 Telegram 中收到个人或项目通知
+> By Manu Varkey
+
 
