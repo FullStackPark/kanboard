@@ -1,67 +1,67 @@
-Usage Examples
+用户案例
 ==============
 
-You can customize your boards according to your business activities:
+你可以根据你自己的商业行为的需求对 Kanboard的列/泳道进行定制:
 
-Software development
+软件开发
 --------------------
 
-- Backlog
-- Ready
-- Work-in-progress
-- To be validated
-- Validated
-- Deployed in production
+- Backlog(堆积)
+- Ready(准备完毕)
+- Work-in-progress(进行中)
+- To be validated(待验证)
+- Validated(已验证)
+- Deployed in production(已部署)
 
-Bug tracking
+Bug 跟踪
 ------------
 
-- Reported
-- Confirmed
-- Work-in-progress
-- Tested
-- Fixed
+- Reported(已报告)
+- Confirmed(已确认)
+- Work-in-progress(进行中)
+- Tested(已测试)
+- Fixed(已修复)
 
-Sales
+销售
 -----
 
-- Leads
-- Meeting
-- Proposal
-- Purchase
+- Leads(线索)
+- Meeting(会议)
+- Proposal(投标)
+- Purchase(下单)
 
-Lean business management
+精益商业管理
 ------------------------
 
-- Ideas
-- Development
-- Measure
-- Analysis
-- Done
+- Ideas(概念)
+- Development(开发阶段)
+- Measure(衡量阶段)
+- Analysis(分析阶段)
+- Done(完成)
 
-Recruiting process
+招聘流程
 ------------------
 
-- Job offers
-- Candidates
-- Phone screens
-- Interviews
-- Hires
+- Job offers(招聘要求发起)
+- Candidates(候选人选择)
+- Phone screens(电话预约)
+- Interviews(面试)
+- Hires(招聘)
 
-Online shops
+在线商店
 ------------
 
-- Orders
-- Packaging
-- Ready to send
-- Shipped
+- Orders(订单)
+- Packaging(打包)
+- Ready to send(准备好派送)
+- Shipped(已派送)
 
-Manufactory
+制造工厂
 -----------
 
-- Customer Orders
-- Assembly
-- Tests
-- Packaging
-- Ready to ship
-- Shipped
+- Customer Orders(客户订单)
+- Assembly(组装)
+- Tests(测试)
+- Packaging(打包)
+- Ready to ship(准备派送)
+- Shipped(已派送)

@@ -1,18 +1,18 @@
-Collapsed and Expanded mode
+展开和折叠模式
 ===========================
 
-Tasks on the board can be displayed in collapsed or in expanded mode.
-Switching from one view to another can be done with the keyboard shortcut **"s"** or by using the drop-down menu on the left.
+Board 面板中的任务可以以收齐或者折叠2种模式进行显示.
+在2种模式间切换的话,可以使用快捷键 **"s"** 或者使用左侧的下拉选按钮.
 
-Collapsed mode
+折叠模式
 --------------
 
 ![Tasks collapsed](../screenshots/board-collapsed-mode.png)
 
-- If the task is assigned to someone, the initials of the person are shown next to the task number.
-- If the task title is too long, you can put your mouse over the task to show a tooltip with the full title.
+- 如果任务已经指派给某人,在任务号旁边会显示该用户.
+- 如果任务的标题过长,在任务上悬停鼠标可以查看标题全文.
 
-Expanded mode
+展开模式
 -------------
 
 ![Tasks expanded](../screenshots/board-expanded-mode.png)

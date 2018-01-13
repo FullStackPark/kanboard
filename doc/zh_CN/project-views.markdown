@@ -1,58 +1,57 @@
-Board, Calendar and List Views
+面板, 日历和列表视图
 ==============================
 
-For each project, tasks can be visualized with several views: **Board, Calendar, List and Gantt**.
-Each view shows the result of the filter box at the top.
-The search engine uses the [advanced syntax](search.markdown).
+每一个项目都会以下面几种形式进行展现: **面板,日历,列表和甘特**.
+每一个视图中都可以在右上角的部分显示一个过滤器,Kanboard 支持的查询可以参考[ 高级语法 ](search.markdown).
 
-Board View
+面板视图
 ----------
 
 ![Board view](../screenshots/board-view.png)
 
-- With this view, you can drag and drop tasks between columns easily.
-- You can also use the keyboard shortcut **"v b"** to switch to the board view.
-- Tasks with a shadow are recently modified.
+- 使用该视图,你可以在不同的列之间通过拖拽实现任务的移动
+- 你可以通过快捷键 **"v b"** 切换到面板视图.
+- 有阴影标示的任务是最近被修改过的.
 
 ![Board Task Limit](../screenshots/board-task-limit.png)
 
-When the task limit is reached for a column, the background becomes red. That means there are too many tasks in progress at the same time.
+如果任务限制突破了当前一列的要求,背景颜色会变成红色,意味着同时开启了太多的任务.
 
-[Learn more about board configuration](board-configuration.markdown)
+[ 查看更多的关于面板的配置 ](board-configuration.markdown)
 
-Calendar View
+日历视图
 --------------
 
 ![Calendar view](../screenshots/calendar-view.png)
 
-- With this view, you can visualize tasks with a due date.
-- Depending of the settings, you can also see tasks in progress.
-- You can also use the keyboard shortcut **"v c"** to switch to the calendar view.
-- [Learn more about calendar configuration](calendar-configuration.markdown)
+- 使用该视图,你可以可视化看到任务的截止日期.
+- 基于系统的配置,可以看到进行中的任务.
+- 可以使用快捷键 **"v c"** 切换到日历视图.
+- [ 查看更多日历视图配置 ](calendar-configuration.markdown)
 
-List View
+列表视图
 ---------
 
 ![List view](../screenshots/list-view.png)
 
-- With this view, all results of your search are displayed in a table.
-- You can also use the keyboard shortcut **"v l"** to switch to the list view.
+- 使用该视图,搜索的所用的结果都会在一个表格中进行列举
+- 可以使用快捷键 **"v l"** 切换到该视图
 
-Gantt View
+甘特图视图
 ----------
 
 ![Gantt view](../screenshots/gantt-view.png)
 
-- The Gantt view displays tasks on a horizontal timeline.
-- The start date and the due date are used to display the chart.
-- For quick access, use the keyboard shortcut: **v g**.
+- 该视图将用户的任务显示在一个横向的时间线上.
+- 显示图片的时候需要用到任务的开始时间和截止时间.
+- 可以使用快捷键 **v g** 切换到该视图.
 
-Project Overview
+项目视图
 ----------------
 
 ![Project overview](../screenshots/project-view.png)
 
-- View the description of the project.
-- Attach and upload documents to the project.
-- View list of project members.
-- View the last activities of the project.
+- 显示项目的描述.
+- 为项目上传新的文档.
+- 查看项目成员列表.
+- 显示项目最后活动

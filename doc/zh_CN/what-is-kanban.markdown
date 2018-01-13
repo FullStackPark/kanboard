@@ -1,32 +1,34 @@
-What is Kanban?
+什么是看板?
 ===============
 
-Kanban is a methodology originally developed by Toyota to be more efficient.
+Kanban是一种方法论,最开始是由 Toyota 开发出来,只为了提升企业的整个的执行效率.
 
-There are only two constraints imposed by Kanban:
+Kanban主要解决的一下的这2个问题:
 
-- Visualize your workflow
-- Limit your work in progress
+- 可视化你的工作量
+- 限制你在进行中的工作量
 
-Visualize your workflow
+可视化你的工作量
 -----------------------
 
-- Your work is displayed on a board so that you have a clear overview of your project
-- Each column represents a step in your workflow
+- 将你的工作显示在面板中(Board),这样你可以直观的得到项目目前的清晰总览.
+- 面板中每一个列都代表你工作流中的某一个步骤
 
-Limit your work in progress
+限制你在进行中的工作量
 ----------------------------------
-- Encourages focus by avoiding multitasking
-- Each phase can have work-in-progress limits
-- Limits help identify bottlenecks
-- Limits avoid working on too many tasks at the same time
+- 鼓励专注,杜绝同时进行多项任务
+- 每一个阶段都可以有任务数的限制
+- 限制有助于识别瓶颈
+- 限制可以避免同时处理太多的任务
 
-Performance Measurement
+功效,性能测试
 =======================
 
-Kanban uses lead and cycle times to measure performance:
+看板使用前置和周期时间来衡量性能：
 
-- **Lead time**: Time between task creation and completion
-- **Cycle time**: Time between task start and completion
+- **前置时间**：任务创建和完成之间的时间
 
-For example, you may have a lead time of 100 days but only have to work 1 hour to complete the task.
+- **循环时间**：任务开始和完成之间的时间
+
+
+例如,你可以设置一个任务的前置时间为100天,但是可能只需要1个小时的循环时间就完成了.

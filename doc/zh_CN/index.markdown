@@ -1,149 +1,149 @@
-Documentation
+文档
 =============
 
-Using Kanboard
+如何使用 Kanboard
 --------------
 
-### Introduction
+### 介绍
 
-- [What is Kanban?](what-is-kanban.markdown)
-- [Kanban vs Todo Lists and Scrum](kanban-vs-todo-and-scrum.markdown)
-- [Usage examples](usage-examples.markdown)
+- [ Kanban是什么? ](what-is-kanban.markdown)
+- [ Kanban vs Todo Lists 和 Scrum ](kanban-vs-todo-and-scrum.markdown)
+- [ 使用案例 ](usage-examples.markdown)
 
-### Using the board
+### 如何使用面板(Board)?
 
-- [Board, Calendar, List and Gantt views](project-views.markdown)
-- [Collapsed and expanded mode](board-collapsed-expanded.markdown)
-- [Horizontal scrolling and compact mode](board-horizontal-scrolling-and-compact-view.markdown)
-- [Show and hide columns](board-show-hide-columns.markdown)
+- [ 面板, 日历, 列表和甘特视图 ](project-views.markdown)
+- [ 展开和折叠模式 ](board-collapsed-expanded.markdown)
+- [ 横向滚动和紧凑模式 ](board-horizontal-scrolling-and-compact-view.markdown)
+- [ 显示和隐藏列 ](board-show-hide-columns.markdown)
 
-### Working with projects
+### 如何使用项目(Project)?
 
-- [Project Types](project-types.markdown)
-- [Creating projects](creating-projects.markdown)
-- [Editing projects](editing-projects.markdown)
-- [Removing projects](removing-projects.markdown)
-- [Sharing boards and tasks](sharing-projects.markdown)
-- [Automatic actions](automatic-actions.markdown)
-- [Project permissions](project-permissions.markdown)
-- [Swimlanes](swimlanes.markdown)
-- [Calendar](calendar.markdown)
-- [Analytics](analytics.markdown)
-- [Gantt chart for tasks](gantt-chart-tasks.markdown)
-- [Gantt chart for projects](gantt-chart-projects.markdown)
-- [Custom filters](custom-filters.markdown)
-- [Custom project roles](custom-project-roles.markdown)
+- [ 项目类型 ](project-types.markdown)
+- [ 创建项目 ](creating-projects.markdown)
+- [ 编辑项目 ](editing-projects.markdown)
+- [ 移除项目 ](removing-projects.markdown)
+- [ 分享 Board 面板和任务 ](sharing-projects.markdown)
+- [ 自动化动作 ](automatic-actions.markdown)
+- [ 项目权限 ](project-permissions.markdown)
+- [ 泳道(Swimlanes) ](swimlanes.markdown)
+- [ 日历 ](calendar.markdown)
+- [ 分析 ](analytics.markdown)
+- [ 任务甘特图 ](gantt-chart-tasks.markdown)
+- [ 项目甘特图 ](gantt-chart-projects.markdown)
+- [ 自定义过滤器 ](custom-filters.markdown)
+- [ 自定义项目角色 ](custom-project-roles.markdown)
 
-### Working with tasks
+### 如何使用任务(Task)?
 
-- [Creating tasks](creating-tasks.markdown)
-- [Closing tasks](closing-tasks.markdown)
-- [Duplicate and move tasks](duplicate-move-tasks.markdown)
-- [Adding screenshots](screenshots.markdown)
-- [Internal Task links](task-links.markdown)
-- [Transitions](transitions.markdown)
-- [Time tracking](time-tracking.markdown)
-- [Recurring tasks](recurring-tasks.markdown)
-- [Create tasks by email](create-tasks-by-email.markdown)
-- [Subtasks](subtasks.markdown)
-- [Analytics for tasks](analytics-tasks.markdown)
-- [User mentions](user-mentions.markdown)
-- [Tags](tags.markdown)
+- [ 创建任务 ](creating-tasks.markdown)
+- [ 关闭任务 ](closing-tasks.markdown)
+- [ 复制和移动任务 ](duplicate-move-tasks.markdown)
+- [ 添加屏幕截图 ](screenshots.markdown)
+- [ 内部任务链接 ](task-links.markdown)
+- [ 转换 ](transitions.markdown)
+- [ 时间跟踪 ](time-tracking.markdown)
+- [ 重复任务 ](recurring-tasks.markdown)
+- [ 通过 Email 创建任务 ](create-tasks-by-email.markdown)
+- [ 子任务 ](subtasks.markdown)
+- [ 任务分析 ](analytics-tasks.markdown)
+- [ 用户关联 @ ](user-mentions.markdown)
+- [ 标签 ](tags.markdown)
 
-### Working with users and groups
+### 如何使用用户和组?
 
-- [Roles](roles.markdown)
-- [User Types](user-types.markdown)
-- [Group management](groups.markdown)
-- [User management](user-management.markdown)
-- [Notifications](notifications.markdown)
-- [Two factor authentication](2fa.markdown)
+- [ 角色 ](roles.markdown)
+- [ 用户类型 ](user-types.markdown)
+- [ 组管理 ](groups.markdown)
+- [ 用户管理 ](user-management.markdown)
+- [ 通知 ](notifications.markdown)
+- [ 2步认证 ](2fa.markdown)
 
-### Settings
+### 配置
 
-- [Keyboard shortcuts](keyboard-shortcuts.markdown)
-- [Application settings](application-configuration.markdown)
-- [Project settings](project-configuration.markdown)
-- [Board settings](board-configuration.markdown)
-- [Calendar settings](calendar-configuration.markdown)
-- [Link settings](link-labels.markdown)
-- [Currency rate](currency-rate.markdown)
+- [ 快捷键 ](keyboard-shortcuts.markdown)
+- [ 应用程序配置 ](application-configuration.markdown)
+- [ 项目配置 ](project-configuration.markdown)
+- [ 面板配置 ](board-configuration.markdown)
+- [ 日历配置 ](calendar-configuration.markdown)
+- [ 链接配置 ](link-labels.markdown)
+- [ 货币汇率 ](currency-rate.markdown)
 
-### Integrations
+### 集成
 
-- [iCalendar subscriptions](ical.markdown)
-- [RSS/Atom subscriptions](rss.markdown)
-- [Json-RPC API](api-json-rpc.markdown)
-- [Webhooks](webhooks.markdown)
-- [Plugins](plugins.markdown)
+- [ iCalendar 订阅 ](ical.markdown)
+- [ RSS/Atom 订阅 ](rss.markdown)
+- [ Json-RPC API ](api-json-rpc.markdown)
+- [ Webhooks ](webhooks.markdown)
+- [ 插件 ](plugins.markdown)
 
-### More information
+### 更多信息
 
-- [Advanced Search Syntax](search.markdown)
-- [Command line interface](cli.markdown)
-- [Syntax guide](syntax-guide.markdown)
-- [Brute force protection](bruteforce-protection.markdown)
-- [Frequently asked questions](faq.markdown)
+- [ 高级查询语法 ](search.markdown)
+- [ 命令行 ](cli.markdown)
+- [ 语法向导 ](syntax-guide.markdown)
+- [ 强力保护 ](bruteforce-protection.markdown)
+- [ 常见问题 ](faq.markdown)
 
-### Troubleshooting
+### 故障排除
 
-- [Solving database migration issues](solving-database-migration-issues.markdown)
-- [Blank page after upgrading](solving-blank-page-issue.markdown)
-- [Unable to open a session on Windows IIS and Internet Explorer](solving-session-issue-windows-iis-ie.markdown)
-- [Performances](performances.markdown)
+- [ 解决数据库移植的问题 ](solving-database-migration-issues.markdown)
+- [ 更新后白屏 ](solving-blank-page-issue.markdown)
+- [ Windows IIS 和 IE 中无法开启会话 ](solving-session-issue-windows-iis-ie.markdown)
+- [ 性能 ](performances.markdown)
 
-Technical details
+技术相关详情
 -----------------
 
-### Installation
+### 安装
 
-- [Requirements](requirements.markdown)
-- [Installation instructions](installation.markdown)
-- [Upgrade Kanboard to a new version](update.markdown)
-- [Installation on Ubuntu](ubuntu-installation.markdown)
-- [Installation on Debian](debian-installation.markdown)
-- [Installation on Centos](centos-installation.markdown)
-- [Installation on OpenSuse](suse-installation.markdown)
-- [Installation on FreeBSD](freebsd-installation.markdown)
-- [Installation on Windows Server with IIS](windows-iis-installation.markdown)
-- [Installation on Windows Server with Apache](windows-apache-installation.markdown)
-- [Installation on Heroku](heroku.markdown)
-- [Run Kanboard with Docker](docker.markdown)
-- [Run Kanboard with Vagrant](vagrant.markdown)
-- [Run Kanboard on Cloudron](cloudron.markdown)
+- [ 先决条件 ](requirements.markdown)
+- [ 安装向导 ](installation.markdown)
+- [ 更新 Kanboard 到一个新的版本 ](update.markdown)
+- [ Ubuntu 中安装 ](ubuntu-installation.markdown)
+- [ Debian 中安装 ](debian-installation.markdown)
+- [ Centos 中安装 ](centos-installation.markdown)
+- [ OpenSuse 中安装 ](suse-installation.markdown)
+- [ FreeBSD 中安装 ](freebsd-installation.markdown)
+- [ Windows Server & IIS 中安装 ](windows-iis-installation.markdown)
+- [ Windows Server & Apache 中安装 ](windows-apache-installation.markdown)
+- [ Heroku 中安装 ](heroku.markdown)
+- [ Docker 中安装 Kanboard ](docker.markdown)
+- [ Vagrant 中安装 Kanbaord ](vagrant.markdown)
+- [ Cloudron 中安装 Kanboard ](cloudron.markdown)
 
-### Configuration
+### 配置
 
-- [Daily background job](cronjob.markdown)
-- [Background Worker](worker.markdown)
-- [Config file](config.markdown)
-- [Environment variables](env.markdown)
-- [Email configuration](email-configuration.markdown)
-- [URL rewriting](nice-urls.markdown)
-- [Plugin Directory](plugin-directory.markdown)
+- [ 每日后台工作 ](cronjob.markdown)
+- [ 后台工作者 ](worker.markdown)
+- [ 配置文件 ](config.markdown)
+- [ 环境变量 ](env.markdown)
+- [ Email 配置 ](email-configuration.markdown)
+- [ URL 重写 ](nice-urls.markdown)
+- [ Plugin 文件夹 ](plugin-directory.markdown)
 
-### Database
+### 数据库
 
-- [Sqlite database management](sqlite-database.markdown)
-- [How to use Mysql](mysql-configuration.markdown)
-- [How to use Postgresql](postgresql-configuration.markdown)
+- [ Sqlite 数据库管理 ](sqlite-database.markdown)
+- [ 如何使用MySQL ](mysql-configuration.markdown)
+- [ 如何使用Postgresql ](postgresql-configuration.markdown)
 
-### Authentication
+### 身份验证
 
-- [LDAP authentication](ldap-authentication.markdown)
-- [LDAP group synchronization](ldap-group-sync.markdown)
-- [LDAP profile picture](ldap-profile-picture.markdown)
-- [LDAP parameters](ldap-parameters.markdown)
-- [LDAP configuration examples](ldap-configuration-examples.markdown)
+- [ LDAP 身份验证 ](ldap-authentication.markdown)
+- [ LDAP 组同步 ](ldap-group-sync.markdown)
+- [ LDAP 个人资料图片 ](ldap-profile-picture.markdown)
+- [ LDAP 参数 ](ldap-parameters.markdown)
+- [ LDAP 配置样例 ](ldap-configuration-examples.markdown)
 - [Reverse proxy authentication](reverse-proxy-authentication.markdown)
 
-### Contributors
+### 贡献者
 
-- [Contributor guide](contributing.markdown)
-- [Translations](translations.markdown)
-- [Coding standards](coding-standards.markdown)
-- [Running tests](tests.markdown)
-- [Build assets](assets.markdown)
+- [ 共享向导 ](contributing.markdown)
+- [ 翻译 ](translations.markdown)
+- [ 代码规范 ](coding-standards.markdown)
+- [ 运行测试 ](tests.markdown)
+- [ 编译 assets ](assets.markdown)
 
 The documentation is written in [Markdown](http://en.wikipedia.org/wiki/Markdown).
 If you want to improve the documentation, just send a pull-request.

@@ -1,7 +1,7 @@
-Show and hide columns on the board
+Board 列的显示和隐藏
 ==================================
 
-You can hide or display columns very easily on the board:
+在 Board 面板中显示和隐藏列非常的简单:
 
 ![Hide a column](../screenshots/hide-column.png)
 
