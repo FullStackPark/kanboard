@@ -1,0 +1,54 @@
+[submodule "plugins/TaskAssignCategory"]
+	path = plugins/TaskAssignCategory
+	url = https://github.com/dmorlitz/kanboard-TaskAssignCategory.git
+[submodule "plugins/TaskAssignDateToUndated"]
+	path = plugins/TaskAssignDateToUndated
+	url = https://github.com/dmorlitz/kanboard-TaskAssignDateToUndated.git
+[submodule "plugins/SendEmailCreator"]
+	path = plugins/SendEmailCreator
+	url = https://github.com/creecros/SendEmailCreator.git
+[submodule "plugins/AutomaticAction"]
+	path = plugins/AutomaticAction
+	url = https://github.com/creecros/AutoSubtasks.git
+[submodule "plugins/Broadcast"]
+	path = plugins/Broadcast
+	url = https://github.com/kanboard/plugin-broadcast.git
+[submodule "plugins/Beanstalk"]
+	path = plugins/Beanstalk
+	url = https://github.com/kanboard/plugin-beanstalk.git
+[submodule "plugins/Chat"]
+	path = plugins/Chat
+	url = https://github.com/kanboard/plugin-chat.git
+[submodule "plugins/S3"]
+	path = plugins/S3
+	url = https://github.com/kanboard/plugin-s3.git
+[submodule "plugins/BitbucketWebhook"]
+	path = plugins/BitbucketWebhook
+	url = https://github.com/kanboard/plugin-bitbucket-webhook.git
+[submodule "plugins/Budget"]
+	path = plugins/Budget
+	url = https://github.com/kanboard/plugin-budget.git
+[submodule "plugins/Calendar"]
+	path = plugins/Calendar
+	url = https://github.com/kanboard/plugin-calendar.git
+[submodule "plugins/ClientCertificate"]
+	path = plugins/ClientCertificate
+	url = https://github.com/kanboard/plugin-client-certificate.git
+[submodule "plugins/Coverimage"]
+	path = plugins/Coverimage
+	url = https://github.com/BlueTeck/kanboard_plugin_coverimage.git
+[submodule "plugins/DueDate"]
+	path = plugins/DueDate
+	url = https://github.com/dmorlitz/kanboard-duedate.git
+[submodule "plugins/Gantt"]
+	path = plugins/Gantt
+	url = https://github.com/kanboard/plugin-gantt.git
+[submodule "plugins/GithubAuth"]
+	path = plugins/GithubAuth
+	url = https://github.com/kanboard/plugin-github-auth.git
+[submodule "plugins/GithubFrontend"]
+	path = plugins/GithubFrontend
+	url = https://github.com/kanboard/plugin-github-frontend.git
+[submodule "plugins/GithubWebhook"]
+	path = plugins/GithubWebhook
+	url = https://github.com/kanboard/plugin-github-webhook.git
